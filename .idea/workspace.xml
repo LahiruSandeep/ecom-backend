@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a5fbe508-e915-4b33-9b15-ce826de339b4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lk/icet/ecom/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lk/icet/ecom/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lk/icet/ecom/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lk/icet/ecom/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lk/icet/ecom/service/impl/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lk/icet/ecom/service/ProductServiceTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2n2tWi7FyyDZnA7yVisF2vCLDva" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "JUnit.ProductServiceTest.executor": "Coverage",
+    "JUnit.ProductServiceTest.test_evaluateProductRating_when30Likes.executor": "Coverage",
+    "JUnit.ProductServiceTest.test_evaluateProductRating_when90Likes.executor": "Coverage",
+    "Maven.ecom-backend [clean,install].executor": "Run",
+    "Maven.ecom-backend [clean].executor": "Run",
+    "Maven.ecom-backend [install].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/iCET/iCET-Development Project/Hostpital-Managemant-System",
+    "settings.editor.selected.configurable": "preferences.customizations"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn clean install" />
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ProductServiceTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lk.icet.ecom.Main" />
+      <module name="ecom-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lk.icet.ecom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ecom-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lk.icet.ecom.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lk.icet.ecom.service" />
+      <option name="MAIN_CLASS_NAME" value="lk.icet.ecom.service.ProductServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceTest.test_evaluateProductRating_when30Likes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ecom-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lk.icet.ecom.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lk.icet.ecom.service" />
+      <option name="MAIN_CLASS_NAME" value="lk.icet.ecom.service.ProductServiceTest" />
+      <option name="METHOD_NAME" value="test_evaluateProductRating_when30Likes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceTest.test_evaluateProductRating_when90Likes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ecom-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lk.icet.ecom.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lk.icet.ecom.service" />
+      <option name="MAIN_CLASS_NAME" value="lk.icet.ecom.service.ProductServiceTest" />
+      <option name="METHOD_NAME" value="test_evaluateProductRating_when90Likes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProductServiceTest" />
+        <item itemvalue="JUnit.ProductServiceTest.test_evaluateProductRating_when30Likes" />
+        <item itemvalue="JUnit.ProductServiceTest.test_evaluateProductRating_when90Likes" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5fbe508-e915-4b33-9b15-ce826de339b4" name="Changes" comment="" />
+      <created>1728183033222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728183033222</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ecom_backend$ProductServiceTest.ic" NAME="ProductServiceTest Coverage Results" MODIFIED="1728666330672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>lk.icet.ecom.service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/ecom_backend$ProductServiceTest_test_evaluateProductRating_when30Likes.ic" NAME="ProductServiceTest.test_evaluateProductRating_when30Likes Coverage Results" MODIFIED="1728665988205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>lk.icet.ecom.service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/ecom_backend$ProductServiceTest_test_evaluateProductRating_when90Likes.ic" NAME="ProductServiceTest.test_evaluateProductRating_when90Likes Coverage Results" MODIFIED="1728665790442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>lk.icet.ecom.service.*</FILTER>
+    </SUITE>
+  </component>
+</project>
